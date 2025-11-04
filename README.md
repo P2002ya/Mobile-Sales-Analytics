@@ -62,10 +62,16 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 - UX-focused Visualization  
 
 ---
-
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshots/MOBILE SALES DASHBOARD.png)
+### Main Dashboard
+![Main Dashboard](Screenshots/dashboard_main.png)
+
+### Month-to-Date (MTD) Dashboard
+![MTD Dashboard](Screenshots/dashboard_mtd.png)
+
+### Year-over-Year (YoY) Dashboard
+![YoY Dashboard](Screenshots/dashboard_yoy.png)
 
 ---
 ## 📁 Repository Structure
@@ -75,9 +81,9 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 ┃ ┣ Raw_Mobile_Sales_Data.xlsx
 ┃ ┗ Cleaned_Mobile_Sales_Data.xlsx
 ┣ 📂 Screenshots
-┃ ┣ Dashboard_Main.png
-┃ ┣ Dashboard_MTD.png
-┃ ┗ Dashboard_YoY.png
+┃ ┣ dashboard_main.png
+┃ ┣ dashboard_mtd.png
+┃ ┗ dashboard_yoy.png
 ┣ 📄 Mobile_Sales_Analytics.pbix
 ┗ 📄 README.md
 
