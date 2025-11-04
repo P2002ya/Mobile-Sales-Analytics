@@ -91,7 +91,7 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 ## 📬 Connect
 
 **Email:** oulkarpriya@gmail.com  
-**LinkedIn:** *link here*
+**LinkedIn:** *(https://www.linkedin.com/in/priyanka-o-2a58b6273/)*
 
 ---
 
