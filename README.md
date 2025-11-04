@@ -11,6 +11,7 @@ Page	Purpose
 Executive Sales Overview	High-level KPIs, city & category performance, top products
 Month-to-Date View (MTD)	Real-time month progress, model comparison, trend analysis
 Same-Period Last-Year View	YoY growth comparison, seasonal trend behavior
+
 🎯 Business Objectives
 
 This dashboard answers key questions for business leadership:
@@ -45,6 +46,7 @@ Data Prep	Power Query cleaning, type correction, transformation
 Modeling	Star schema (Fact + Dimension tables), optimized relationships
 DAX	Time intelligence (MTD, YoY, YTD), KPI measures, % share, filters
 Design	Clean UI, drill-downs, slicers, tooltips, consistent theme
+
 🛠️ Tech Stack
 
 Power BI
