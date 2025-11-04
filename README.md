@@ -63,6 +63,11 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Overview](Screenshots/MOBILE SALES DASHBOARD.png)
+
+---
 ## 📁 Repository Structure
 
 📦 Mobile-Sales-Analytics
