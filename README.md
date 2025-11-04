@@ -1,92 +1,102 @@
 # Mobile-Sales-Analytics
+# 📱 Mobile Sales Intelligence System — Power BI (End-to-End Project)
 
-📱 Mobile Sales Intelligence System — Power BI (End-to-End Project)
+This project is a real-world **Business Intelligence reporting system** built in Power BI to analyze mobile sales, customer behavior, and product performance across cities, brands, and time periods.
 
-This project is a real-world style Business Intelligence solution built in Power BI to help retail leadership analyze sales performance, customer behavior, and product trends across cities, brands, and time periods.
+Instead of a single dashboard, this uses a **professional 3-layer reporting approach** — similar to enterprise BI projects.
 
-Instead of one basic dashboard, this follows a professional 3-layer reporting structure — similar to dashboards used in enterprise BI teams.
+---
 
-📂 Report Pages
-Page	Purpose
-Executive Sales Overview	High-level KPIs, city & category performance, top products
-Month-to-Date View (MTD)	Real-time month progress, model comparison, trend analysis
-Same-Period Last-Year View	YoY growth comparison, seasonal trend behavior
+## 📂 Report Pages
 
-🎯 Business Objectives
+| Page | Purpose |
+|------|--------|
+| **Executive Sales Overview** | High-level KPIs, city & category performance, top products |
+| **Month-to-Date View (MTD)** | Current month progress, model comparison & trend insights |
+| **Same-Period Last-Year View** | YoY comparison, seasonal patterns, growth tracking |
 
-This dashboard answers key questions for business leadership:
+---
 
-Which cities drive the highest revenue?
+## 🎯 Business Objectives
 
-Which brands & models dominate premium vs mid-segment sales?
+This dashboard helps stakeholders answer:
 
-Which payment methods are most preferred by customers?
+- Which cities drive the highest revenue?
+- Which brands/models perform best in premium & mid-segments?
+- Which payment methods customers prefer?
+- Do high customer ratings relate to repeat purchases?
+- Are sales improving MTD and YoY?
 
-How do customer ratings impact repeat purchase behavior?
+This translates raw data into **strategic decisions** for sales, product, and marketing teams.
 
-Are sales improving vs last month/year?
+---
 
-This project converts raw sales data into actionable insights for sales strategy, category decisions, and customer retention planning.
+## 📈 Key Insights
 
-📈 Key Insights Delivered
+- **Bengaluru, Mumbai, Hyderabad** lead in sales
+- **Apple & Samsung** dominate premium market contribution
+- **UPI & Debit Card** are top payment choices
+- High ratings strongly link to **repeat customer behavior**
+- Positive **MTD & YoY growth** signals steady demand
 
-Bengaluru, Mumbai, Hyderabad lead national sales
+---
 
-Apple & Samsung dominate high-value segments
+## 🧠 Technical Workflow
 
-UPI & Debit Card are most preferred payment methods
+| Layer | Tasks Completed |
+|-------|----------------|
+| **Data Prep** | Power Query — cleaning, type fixing, transformations |
+| **Modeling** | Star schema (Fact + Dimensions), optimized relationships |
+| **DAX** | Time intelligence (MTD, YTD, YoY), KPIs, % share, filtering logic |
+| **Design** | Drill-downs, slicers, tooltips, clean UX, consistent theme |
 
-Better ratings show a strong link with repeat purchases
+---
 
-Positive growth trends in both MTD & YoY performance
+## 🛠 Tech Stack
 
-🧠 Technical Workflow
-Layer	Work Done
-Data Prep	Power Query cleaning, type correction, transformation
-Modeling	Star schema (Fact + Dimension tables), optimized relationships
-DAX	Time intelligence (MTD, YoY, YTD), KPI measures, % share, filters
-Design	Clean UI, drill-downs, slicers, tooltips, consistent theme
+- Power BI  
+- Power Query  
+- DAX  
+- Star Schema Modeling  
+- Time Intelligence Functions  
+- UX-focused Visualization  
 
-🛠️ Tech Stack
+---
 
-Power BI
+## 📁 Repository Structure
 
-Power Query
-
-DAX
-
-Star Schema Modelling
-
-Time Intelligence
-
-UX-Focused Report Design
-
-📁 Repository Contents
 📦 Mobile-Sales-Analytics
- ┣ 📂 Dataset
- ┃ ┣ Raw_Mobile_Sales_Data.xlsx
- ┃ ┗ Cleaned_Mobile_Sales_Data.xlsx
- ┣ 📂 Screenshots
- ┃ ┣ Dashboard_Main.png
- ┃ ┣ Dashboard_MTD.png
- ┃ ┗ Dashboard_YoY.png
- ┣ Mobile_Sales_Analytics.pbix
- ┗ README.md
+┣ 📂 Dataset
+┃ ┣ Raw_Mobile_Sales_Data.xlsx
+┃ ┗ Cleaned_Mobile_Sales_Data.xlsx
+┣ 📂 Screenshots
+┃ ┣ Dashboard_Main.png
+┃ ┣ Dashboard_MTD.png
+┃ ┗ Dashboard_YoY.png
+┣ 📄 Mobile_Sales_Analytics.pbix
+┗ 📄 README.md
 
-💡 Why This Project Matters
 
-✔ Shows full BI lifecycle (ETL → Model → DAX → Visualization)
-✔ Demonstrates executive-level reporting, not student charts
-✔ Focus on business impact & storytelling
-✔ Proof of ability to build production-style dashboards
+---
 
-📬 Let's Connect
+## 💡 Why This Project Matters
 
-If you're hiring, mentoring, or looking to collaborate — I would love to connect and discuss BI projects.
+- ✅ Real BI pipeline (ETL → Model → DAX → Insights)
+- ✅ Executive-style reporting, not student visuals  
+- ✅ Strong business storytelling  
+- ✅ Shows readiness for **BI Analyst / Power BI roles**
 
-📧 Email: oulkarpriya@gmail.com
-🔗 LinkedIn: your-profile-link
+---
 
-⭐ Feedback Welcome
+## 📬 Connect
 
-Open to feedback, suggestions, and improvement ideas — continuous learning mindset 🚀
+**Email:** oulkarpriya@gmail.com  
+**LinkedIn:** *link here*
+
+---
+
+## ⭐ Feedback Welcome
+
+Always learning — open to improvement suggestions & collaborations 🚀
+
+
