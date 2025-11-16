@@ -1,5 +1,5 @@
-# Mobile-Sales-Analytics
-# 📱 Mobile Sales Intelligence System — Power BI (End-to-End Project)
+# Mobile-Sales-Dashboard_PowerBi
+# 📱 Mobile Sales Dashboard— Power BI (End-to-End Project)
 
 This project is a real-world **Business Intelligence reporting system** built in Power BI to analyze mobile sales, customer behavior, and product performance across cities, brands, and time periods.
 
