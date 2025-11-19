@@ -72,10 +72,10 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 
 ### Year-over-Year (YoY) Dashboard
 ![YoY Dashboard](Screenshots/dashboard_yoy.png)
-
 ---
 ## 📁 Repository Structure
 
+```
 📦 Mobile-Sales-Analytics
 ┣ 📂 Dataset
 ┃ ┣ Raw_Mobile_Sales_Data.xlsx
@@ -86,10 +86,8 @@ This translates raw data into **strategic decisions** for sales, product, and ma
 ┃ ┗ dashboard_yoy.png
 ┣ 📄 Mobile_Sales_Analytics.pbix
 ┗ 📄 README.md
-
-
+```
 ---
-
 ## 💡 Why This Project Matters
 
 - ✅ Real BI pipeline (ETL → Model → DAX → Insights)
